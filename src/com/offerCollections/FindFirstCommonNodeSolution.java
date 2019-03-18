@@ -8,10 +8,7 @@ package com.offerCollections;
  */
 
 
-class ListNode{
-	int val;
-	ListNode next;
-}
+
 public class FindFirstCommonNodeSolution {
 
 	public FindFirstCommonNodeSolution() {
